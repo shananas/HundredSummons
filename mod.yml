@@ -62,6 +62,10 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/Feather Charm.dds
+- name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
+  method: copy
+  source:
+  - name: remastered/chicken_little.scd
 
 #Hud Stuff
 - name: remastered/obj/P_EX350.a.us/-15.png
