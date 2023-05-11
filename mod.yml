@@ -74,7 +74,10 @@ assets:
   method: copy
   source:
   - name: remastered/tinkerbell.scd
-
+- name: remastered\obj\N_HB040_BTL.a.us\voice\battle\us\stitch
+  method: copy
+  source:
+  - name: remastered/stitch.scd
 
 #Hud Stuff
 - name: remastered/obj/P_EX350.a.us/-15.png
